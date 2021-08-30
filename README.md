@@ -7,7 +7,7 @@
 
 - 🌱 Estou constantemente em busca de aprimoramento pessoal e profissional
 
-- 👨‍💻 Aluno de Desenvolvimento de Sistemas na ETEC de Itaquaquecetuba
+- 👨‍💻 Técnico em Desenvolvimento de Sistemas formado pela ETEC de Itaquaquecetuba
 
 <h3 align="left">Contato:</h3>
 <p align="left">
