@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, eu sou o Marcelo</h1>
 <h3 align="center">Um apaixonado por tecnologia, desenvolvimento de aplicações e jogos!</h3>
 
-- 🔭 Atualmente estou estudando desenvolvimento de aplicações em C# e .NET
+- 🔭 Meu foco de carreira é o desenvolvimento back-end e mobile.
 
 - 🤝 Gosto de trabalhar em equipe
 
